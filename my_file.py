@@ -5,3 +5,6 @@ def my_fic():
 
 def add(a,b):
     return a+b
+
+def another_func():
+    print('Nothing')
