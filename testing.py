@@ -3,4 +3,4 @@ def my_test():
     print('testing')
 
 def another_test():
-    print("this is another test")
+    print("this is another test !")
